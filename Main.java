@@ -10,6 +10,7 @@ public class Main
     // instance variables - replace the example below with your own
     BinarySearchTree<Entry> BST;
     BinaryTree<Character> BT;
+    BinarySearchTree<Entry> BSTZwei = new BinarySearchTree<Entry>();
     
     public Main()
     {
